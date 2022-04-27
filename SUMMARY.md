@@ -2,7 +2,7 @@
 
 ## 💠 Hero to Expert
 
-* [Basics](README.md)
+* [Learning KQL](README.md)
   * [pack](hero-to-expert/basics/pack.md)
   * [summarize](hero-to-expert/basics/summarize/README.md)
     * [make\_bag](hero-to-expert/basics/summarize/make\_bag.md)
