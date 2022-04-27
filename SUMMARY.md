@@ -3,6 +3,9 @@
 ## 💠 Hero to Expert
 
 * [Learning KQL](README.md)
+  * [let](hero-to-expert/basics/let.md)
+  * [join](hero-to-expert/basics/join.md)
+  * [union](hero-to-expert/basics/union.md)
   * [pack](hero-to-expert/basics/pack.md)
   * [summarize](hero-to-expert/basics/summarize/README.md)
     * [make\_bag](hero-to-expert/basics/summarize/make\_bag.md)
@@ -19,10 +22,6 @@
   * [parse](hero-to-expert/basics/parse.md)
   * [evaluate pivot](hero-to-expert/basics/evaluate-pivot/README.md)
     * [makeset and makelist](hero-to-expert/basics/evaluate-pivot/makeset-and-makelist.md)
-  * [Create table](hero-to-expert/basics/create-table.md)
-  * [let](hero-to-expert/basics/let.md)
-  * [join](hero-to-expert/basics/join.md)
-  * [union](hero-to-expert/basics/union.md)
   * [range](hero-to-expert/readme/range.md)
   * [make-series](hero-to-expert/readme/make-series.md)
   * [render](hero-to-expert/readme/render.md)
